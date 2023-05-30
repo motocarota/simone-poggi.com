@@ -6,7 +6,7 @@
 	
 	- implementare azioni 
 
-		- copia da config
+		- copia config da altro task
 			apre dialog, mostra lista task (tipo dashboard, filtrabile)
 			selezioni un task, ne ottiene la config
 			la nuova config deve mergiare su quella vecchia secondo uno schema
