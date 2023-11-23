@@ -1,31 +1,19 @@
 # NOTE TIBERONE
 
+root root
+test qwepasdl
+
 ## HIGH PRIO
-
-- finire il config per questa settimana
-	
-	- implementare azioni 
-
-		- copia config da altro task
-			apre dialog, mostra lista task (tipo dashboard, filtrabile)
-			selezioni un task, ne ottiene la config
-			la nuova config deve mergiare su quella vecchia secondo uno schema
-
-		- importa csv
-			controllare il formato dei dati importati
 
 ## LOW PRIO
 
-- restore bookmark functionality
+- gli hover sui pulsanti funzionano ma le icone bloccano l'evento hover
 
-- gli hover sulle icone info non sembrano funzionare
+- disabilitare il supporto al tema scuro
 
-- rendere cercabile le select dei dynamic fields
+- task selection dialog ha una doppia scrollbar (grid + dialog)
 
-- dashboard la search box per i client fa schifo
+## CRUD COMPONENT
 
-- colore bordo select = grigio chiaro
-
-## DONE
-
-
+- https://blog.logrocket.com/the-complete-guide-to-building-headless-interface-components-in-react/
+- https://blog.logrocket.com/complete-workflow-guide-to-publish-a-react-library-to-npm-using-github-actions/
