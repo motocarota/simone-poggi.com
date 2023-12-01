@@ -602,8 +602,9 @@ a.more {
   padding-top: 30px;
 }
 
-.slider-wrap .item .gall blockquote {
+.slider-wrap .item {
   font-size: 16px;
+  text-align: start;
 }
 
 @media (min-width: 768px) {
