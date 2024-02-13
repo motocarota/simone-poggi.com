@@ -386,10 +386,6 @@ ul.dropdown-menu>li>a:hover,
   }
 }
 
-.portfolio {
-  padding-bottom: 100px;
-}
-
 .portfolio .btn:focus,
 .portfolio .btn:hover,
 .portfolio .btn.focus.active {
@@ -674,16 +670,12 @@ textarea.form-control {
   color: #f44336;
 }
 
-/*# sourceMappingURL=maps/style.css.map */
+.main-title,
+.main-title-sub {
+  color: white;
+  filter: drop-shadow(2px 4px 6px black);
+}
 
-.white-gradient {
-  background-image: -moz-linear-gradient(left, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
-  background-image: -ms-linear-gradient(left, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
-  background-image: -webkit-gradient(linear, 0 0, 100% 0, from(rgba(255, 255, 255, 1)), to(rgba(255, 255, 255, 0)));
-  background-image: -webkit-linear-gradient(left, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
-  background-image: -o-linear-gradient(left, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
-  background-image: linear-gradient(left, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
-  background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='rgba(255, 255, 255, 1)', endColorstr='rgba(255, 255, 255, 0)', GradientType=1);
-  padding: 2rem 0;
+.main-title-sub {
+  font-size: 30px;
 }
