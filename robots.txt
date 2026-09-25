@@ -1,2 +1,4 @@
 User-Agent: *
 Allow: /
+
+Sitemap: https://simone-poggi.com/sitemap.txt
